@@ -10,7 +10,7 @@
 在编译过程中,建议给予pyinstaller的一个参数`--onefile`来编译dbs_uplogxx.py或者dbs_uplogx.py.  
 生日文件存放在`C:\IDS\SR.txt`中,格式为`MM-DD`  
 ### dolog
-在`src`目录中,`dbs_dolog.py`是收集信息的程序.  
+在`src`目录中,`dbs_dolog.cpp`是收集信息的程序.  
 它收集的信息包括:
 - 计算机名
 - OEM信息
